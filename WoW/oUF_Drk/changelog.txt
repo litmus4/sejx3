@@ -1,0 +1,74 @@
+2.01r
+	Fixed some eclipsebar errors
+	
+2.0r
+	Complete code rewrite
+	Changed the positioning of class bars
+	Changed the positioning of castbars
+	Changed portrait and healthbar's heights of player and target frames
+	Slight new layout for all other frames
+	Added boss frames
+	Added pet's target frame
+	Added new texture for backgrounds
+	Added new texture for debuffhighlight
+	Added new font
+	Added support for oUF_boring_totembar
+	Added support for oUF_CombatFeedback
+
+1.7r
+	Fixed DeadlyPoison tag bug (hopefully)
+	Fixed raid dropdown menus
+	
+1.65r
+	Corrected some wrong AuraWatch spell ids
+	
+1.6r
+	Changed health's bg color when out of range
+	Changed the way raid scaling is done
+	Added support for oUF_AuraWatch
+	Fixed raidDebuffs not working properly
+	Added a new custom texture for debuffHighlightning
+	
+1.5r
+	Fixed a typo that prevented combopoints to show up
+	Fixed frame scaling not working
+	Fixed Moonkin's EclipseBar support
+	
+1.4b
+	Added new config options to set frame positioning for some units
+	Changed LFD's positioning
+	Added some options to control aura displaying
+	Added Boss/Elite/Rare representation
+	Added target's level coloring according to difficult
+	Fixed various minor bugs
+	Removed support for oUF_PowerSpark (no more 5sec rule)
+	Added support for oUF_DebuffHighlight (embedded)
+	Added support for raid debuffs
+	Changed aura fonts for a better one
+	
+1.3b
+	Added support for oUF 1.5.x
+	Fixed raid and partyframes not showing
+	Added combopoints support
+	Added PvP Icon
+	Removed debuff highlight for rewrite
+	Removed support for oUF_ReadyCheck external addon, added support for oUF's ReadyCheck
+
+1.2b
+	Changed TOC to support 4.x
+	Added support for Holy Power and Soul Shards
+	Added Phase and Quest icons
+	Added an option to disable castbars
+	Removed support for HealComm4, added support for oUF's HealPrediction
+	
+1.1b
+	Added life percent display in player's and target's frames
+	Added power display in player frame instead of player's name
+	Added an option to disable player auras in player frame and use blizzard's default aura frames
+	Added scaling support (experimental)
+	Added a focus target's frame
+	Added castbar support for all frames (except raid)
+	Removed Pet's target frame
+
+1.0b
+	Initial release

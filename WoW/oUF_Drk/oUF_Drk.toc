@@ -1,0 +1,25 @@
+## Interface: 40300
+## Author: Drakull
+## Title: oUF_Drk
+## Version: 2.0
+## Notes: Drakull's oUF layout
+## RequiredDeps: oUF
+## OptionalDeps: oUF_boring_totembar, oUF_CombatFeedback
+## X-Category: UnitFrame
+
+oUF_Party.xml
+
+cfg.lua
+tags.lua
+Elements\DebuffHighlight.lua
+Elements\AuraWatch.lua
+Elements\raidDebuffs.lua
+Elements\Smooth.lua
+lib.lua
+core.lua
+
+Plugins\Smooth.lua
+Plugins\Experience.lua
+Plugins\TotemBar.lua
+Plugins\ThreatBar.lua
+Plugins\Reputation.lua
